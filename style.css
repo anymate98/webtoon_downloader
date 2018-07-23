@@ -1,0 +1,9 @@
+div#select-comic {
+    position: static;
+    float: right;
+}
+
+div#select-site {
+    position: static;
+    float: left;
+}
